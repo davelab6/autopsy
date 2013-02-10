@@ -1,9 +1,11 @@
 Autopsy
 ==============
 
+![Autopsy Logo](https://github.com/davelab6/autopsy/raw/master/logo.png)
+
 Autopsy is a [FontLab Studio](http://www.fontlab.com/font-editor/fontlab-studio/) add-on for analyzing design consistency across multiple fonts.
 
-![Screen shot of the Prose interface](https://github.com/davelab6/autopsy/raw/master/showing.png)
+![Screen shot of the Autopsy interface](https://github.com/davelab6/autopsy/raw/master/showing.png)
 
 It visualizes a selection of letters side by side and puts it into a PDF for visual comparison. If visual comparison isn’t enough for you, it dissects what’s there and what’s not and puts that into simple graphs.
 
