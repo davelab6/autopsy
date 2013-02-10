@@ -41,8 +41,8 @@ class Ddict(dict):
 ##### Settings
 
 programname = 'Autopsy'
-programversion = '1.1'
-releasedate = '200903040143'
+programversion = '1.101'
+releasedate = '201302101234'
 verbose = False
 
 availablegraphs = ('width', 'bboxwidth', 'bboxheight', 'highestpoint', 'lowestpoint', 'leftsidebearing', 'rightsidebearing')
