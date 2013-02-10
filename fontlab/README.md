@@ -4,9 +4,11 @@ Autopsy
 In January 2013, Yanone agreed to make Autopsy libre software (GPLv3) as long as no one asks him to support it. 
 
 > ---------- Forwarded message ----------
+```
 > From: Yanone
 > Date: 28 January 2013 06:56
 > To: Dave Crossland <d.crossland@gmail.com>
+```
 > 
 > > I was curious if/when Autopsy will be made libre, as it would be good
 > > to include in FontForge.
@@ -26,4 +28,3 @@ In January 2013, Yanone agreed to make Autopsy libre software (GPLv3) as long as
 > version. And it won't happen any time soon.
 > 
 > Make it GPL3, please. Thank you.
-> 
