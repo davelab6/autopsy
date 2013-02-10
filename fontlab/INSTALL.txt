@@ -1,0 +1,22 @@
+Installation of Autopsy
+
+
+
+
+
+On Mac OS X:
+
+Copy the file Autopsy.py and the User Guide PDF into FontLab's Macro folder,
+which is usually located at
+/Library/Application Support/FontLab/Studio 5/Macros/
+
+
+On Windows:
+
+Copy the file Autopsy.py and the User Guide PDF into FontLab's Macro folder,
+which is usually located at
+C:\Program Files\FontLab\Studio5\Macros\
+
+
+
+(c) 2008 Yanone
