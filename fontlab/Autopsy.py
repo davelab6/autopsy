@@ -1621,7 +1621,7 @@ class _listMultiSelect:
 		self.d.AddControl(CHECKBOXCONTROL, Rect( 455,  151,  474,  170), 'graph_leftsidebearing_scope_global', STYLE_CHECKBOX, '')
 		self.d.AddControl(CHECKBOXCONTROL, Rect( 431,  175,  450,  194), 'graph_rightsidebearing_scope_local', STYLE_CHECKBOX, '')
 		self.d.AddControl(CHECKBOXCONTROL, Rect( 455,  175,  474,  194), 'graph_rightsidebearing_scope_global', STYLE_CHECKBOX, '')
-		self.d.AddControl(STATICCONTROL, Rect( 15,  567,  439,  583), 'Label10', STYLE_LABEL, 'Autopsy 1.1 by Yanone. Free for non-commercial use.')
+		self.d.AddControl(STATICCONTROL, Rect( 15,  567,  439,  583), 'Label10', STYLE_LABEL, 'Autopsy 1.1 by Yanone. Free under GPLv3.')
 
 		if mode == 'MM': 
 			self.customdata = Ddict(dict)
