@@ -19,6 +19,18 @@ Compare the design of glyphs without generating instances. In FontLab you can us
 
 Read all the details in the [User Guide](fontlab/Autopsy User Guide.pdf).
 
+Donate
+---------
+
+If you’re using this for something useful, and you see the amount of work Yanone put into it, please consider to thank him with a donation to his PayPal account, *post@yanone.de*:
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_donations"><input type="hidden" name="business" value="post@yanone.de"><input type="hidden" name="lc" value="US"><input type="hidden" name="item_name" value="Yanone's free fonts"><input type="hidden" name="currency_code" value="EUR"><input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest"><input type="image" src="http://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="http://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
+
+Install
+---------
+
+There is a Reportlab dependency. The ReportLab that this was written for is now some years old; it may not work with the latest version. The version of ReportLab that this was written for can be found alongside the fontlab script.
+
 Licence
 ------------
 
